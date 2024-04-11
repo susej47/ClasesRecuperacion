@@ -1,8 +1,5 @@
 name: Pylint
 
-on: [push]
-name: Pylint
-
 # modificamos para añadir paths
 on: 
   push:
